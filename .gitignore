@@ -1,0 +1,5 @@
+.alma-snapshots
+node_modules
+dist
+.local-backup/
+.local-preview/

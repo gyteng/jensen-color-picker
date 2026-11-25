@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jensen-color-picker.pages.dev/sitemap.xml
