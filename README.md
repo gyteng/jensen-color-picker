@@ -2,6 +2,8 @@
 
 基于 Vue 3 和 Vite 的中文趣味拾色器。页面保留本地卡通肖像；默认显示“黄仁勋”，提供 39 种预设颜色，其他预设使用完整颜色名称，自定义颜色匹配最接近的中文色名。字色、色块和 HEX 同步更新，“仁勋”的位置保持不变。
 
+**在线体验：[jensen-color-picker.pages.dev](https://jensen-color-picker.pages.dev/)**
+
 ## 本地开发与构建
 
 需要 Node.js 20.19+ 或 22.12+。
