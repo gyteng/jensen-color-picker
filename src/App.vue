@@ -23,6 +23,6 @@ const surname = computed(() => colorSurname(color.value))
         <div class="vertical" aria-hidden="true">关于色彩与灵感 — 001</div><div class="stamp" aria-hidden="true">好颜色<br>好心情 ✳</div>
       </section>
     </main>
-    <footer><span>© 仁勋拾色器 &nbsp; / &nbsp; 为一点乐趣而作</span></footer>
+    <footer><span>© 仁勋拾色器 &nbsp; / &nbsp; 为一点乐趣而作</span><a href="https://github.com/gyteng/jensen-color-picker" target="_blank" rel="noopener noreferrer">GitHub 项目 ↗</a></footer>
   </div>
 </template>
